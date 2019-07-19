@@ -19,7 +19,7 @@ export default {
 
 <style scoped>
 .home-hero {
-    background: url('https://images.unsplash.com/photo-1520869578617-557561d7b114');
+    background: require(url('http://source.unsplash.com/0BhSKStVtdM'));
     background-size: cover;
     width: 100%;
     height: 100%;
