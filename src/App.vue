@@ -21,7 +21,7 @@ export default {
 
 <style>
 .home-hero {
-    background: url('http://source.unsplash.com/0BhSKStVtdM');
+    background-image: url('http://source.unsplash.com/0BhSKStVtdM');
     background-size: cover;
     width: 100%;
     height: 100%;
