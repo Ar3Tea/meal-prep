@@ -1,5 +1,5 @@
 <template>
-    <v-container fluid fill-height class="home-hero" style="max-height: 100vh;">
+    <v-container fluid fill-height class="home-hero" style="max-height: 100vh; background: url('http://source.unsplash.com/0BhSKStVtdM');">
         <v-layout justify-center align-center column pa-5>
             <div class="display-4 font-weight-black white--text text-xs-center">HEALTHY MEALS</div>
             <div class="display-4 font-weight-black white--text text-xs-center mb-3">FOR YOUR TABLE</div>
