@@ -7,7 +7,7 @@
             <v-flex xs12 sm12 md4>
                 <v-card>
                     <v-responsive>
-                        <v-img src="http://source.unsplash.com/hjCA3ecCXAQ" height="500px">
+                        <v-img :src="require('http://source.unsplash.com/hjCA3ecCXAQ')" height="500px">
                             <v-container fill-height fluid>
                                 <v-layout fill-height>
                                     <v-flex xs12 align-end flexbox>
